@@ -1,3 +1,4 @@
+// qwerty
 var box = $(".board");
 var restart = $("input");
 var count = 0;
